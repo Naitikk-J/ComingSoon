@@ -1,7 +1,7 @@
 {
   "credentials": {
-    "builderPublicKey": "REDACTED",
-    "builderPrivateKey": "REDACTED",
+    "builderPublicKey": "",
+    "builderPrivateKey": "",
     "spaceName": "Test User Space",
     "userId": "TN2BKNhOH5cnvQXnsnsr1Jtaq9g1",
     "timestamp": "2026-02-05T11:40:21.778Z"
